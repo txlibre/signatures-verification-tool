@@ -2,9 +2,9 @@
 
 This tool supports the [[https://tzlibre.github.io/whitelist.html][TzLibre whitelisting process]]. 
 
-It allows to verify signatures generated according to the [[https:tzlibre.github.io/whitelist.html#protocol][TzLibre whitelisting protocol]]
+It allows to verify signatures generated according to the [[https://tzlibre.github.io/whitelist.html#protocol][TzLibre whitelisting protocol]]
 
-It accepts four parameters:
+It accepts 4 parameters:
 - ~TZL_pk~: the TzLibre public key
 - ~ETH_addr~: the ETH address to whitelist 
 - ~ETH_addrSignature~: the signature of the ~ETH_addr~ made through the TzLibre secret key
