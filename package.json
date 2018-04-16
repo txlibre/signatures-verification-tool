@@ -1,0 +1,9 @@
+{
+  "name": "signatures-verification-tool",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "blake2b": "^2.1.2",
+    "elliptic": "^6.4.0"
+  }
+}
